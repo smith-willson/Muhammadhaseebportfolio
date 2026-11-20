@@ -32,7 +32,7 @@ Open `index.html` in a browser. No server is needed.
 2. Push `index.html` and this `README.md` to the `main` branch.
 3. In the repository, go to **Settings → Pages**.
 4. Under **Build and deployment**, set **Source** to **Deploy from a branch**, choose `main` and `/ (root)`, then save.
-5. After a minute or two the site is live at `https://smith-willson.github.io`.
+5. After a minute or two the site is live at [`https://smith-willson.github.io`.].
 
 ## Edit the content
 
